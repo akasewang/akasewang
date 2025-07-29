@@ -43,7 +43,7 @@ Currently based in Bengaluru, I'm always open to connecting for a coffee and a g
           <a href="https://codeforces.com/profile/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/codeforces.svg" alt="codeforces"/></a>
           <a href="https://atcoder.jp/users/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/atcoder.svg" alt="atcoder"/></a>
           <a href="https://profiles.topcoder.com/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/topcoder.svg" alt="topcoder"/></a>
-          <a href="https://www.hackerrank.com/profile/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/hackerrank.svg" alt="hackerrank"/></a>
+          %<a href="https://www.hackerrank.com/profile/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/hackerrank.svg" alt="hackerrank"/></a>
           <a href="https://leetcode.com/u/akasewang/" target="_blank"><img align="center" width="35px" src="icons/socials/leetcode.svg" alt="leetcode"/></a>
         </p>
       </td>
