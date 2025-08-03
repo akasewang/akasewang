@@ -21,11 +21,10 @@
       <td><strong>About Me</strong></td>
       <td>
         <p align="justify">
-I'm a Data Science undergraduate student with a passion for building meaningful projects at the intersection of data, design, and development. I'm deeply immersed in Deep Learning, Web Development, and Competitive Programming. I'm currently building <a href="https://www.404donut.com">404donut</a>, you can explore my <a href="https://www.akasewang.me/projects">projects</a> and <a href="https://www.akasewang.me/demos">demos</a> in my <a href="https://www.akasewang.me">portfolio</a> and follow my learning journey on my <a href="https://www.akasewang.me/posts">personal blog</a>.
-
+I'm a data science undergrad with a solid grounding in deep learning, neural networks and computer vision algorithms. Beyond my technical expertise, I am a active open source contributor and a competitive programmer.
+<!--I'm a Data Science undergraduate student with a passion for building meaningful projects at the intersection of data, design, and development. I'm deeply immersed in Deep Learning, Web Development, and Competitive Programming. I'm currently building <a href="https://www.404donut.com">404donut</a>, you can explore my <a href="https://www.akasewang.me/projects">projects</a> and <a href="https://www.akasewang.me/demos">demos</a> in my <a href="https://www.akasewang.me">portfolio</a> and follow my learning journey on my <a href="https://www.akasewang.me/posts">personal blog</a>.
 Beyond technology, I love exploring the world through travel and my camera lens (view my <a href="https://www.akasewang.me/photos">photography</a>). I'm also an avid consumer of stories in all forms, you can check out my <a href="https://www.akasewang.me/photos">media consumption</a> too.
-
-Currently based in Bengaluru, I'm always open to connecting for a coffee and a good conversation or an exciting collaboration!
+Currently based in Bengaluru, I'm always open to connecting for a coffee and a good conversation or an exciting collaboration!-->
         </p>
       </td>
     </tr>
