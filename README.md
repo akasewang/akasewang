@@ -35,13 +35,13 @@ Currently based in Bengaluru, I'm always open to connecting for a coffee and a g
           <a href="https://akasewang.me" target="_blank"><img align="center" width="35px" src="icons/socials/portfolio.svg" alt="akasewang"/></a>
           <a href="https://linkedin.com/in/akasewang" target="_blank"><img align="center" src="icons/socials/linkedin.svg" width="35px" alt="linkedin"/></a>
           <a href="https://x.com/akasewang" target="_blank"><img align="center" src="icons/socials/x.svg" width="35px" alt="x"/></a>
-          <a href="https://youtube.com/@akasewang" target="_blank"><img align="center" src="icons/socials/youtube.svg" width="35px" alt="youtube"/></a>
-          <a href="https://instagram.com/akasewang" target="_blank"><img align="center" src="icons/socials/instagram.svg" width="35px" alt="instagram"/></a>
-          <a href="https://www.kaggle.com/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/kaggle.svg" alt="kaggle"/></a>
-          <a href="https://behance.com/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/behance.svg" alt="behance"/></a>
+          <!--<a href="https://youtube.com/@akasewang" target="_blank"><img align="center" src="icons/socials/youtube.svg" width="35px" alt="youtube"/></a>-->
+          <!--<a href="https://instagram.com/akasewang" target="_blank"><img align="center" src="icons/socials/instagram.svg" width="35px" alt="instagram"/></a>-->
+          <!--<a href="https://www.kaggle.com/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/kaggle.svg" alt="kaggle"/></a>-->
+          <!--<a href="https://behance.com/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/behance.svg" alt="behance"/></a>-->
           <a href="https://codeforces.com/profile/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/codeforces.svg" alt="codeforces"/></a>
-          <a href="https://atcoder.jp/users/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/atcoder.svg" alt="atcoder"/></a>
-          <a href="https://profiles.topcoder.com/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/topcoder.svg" alt="topcoder"/></a>
+          <!--<a href="https://atcoder.jp/users/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/atcoder.svg" alt="atcoder"/></a>-->
+          <!--<a href="https://profiles.topcoder.com/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/topcoder.svg" alt="topcoder"/></a>-->
           <!--<a href="https://www.hackerrank.com/profile/akasewang" target="_blank"><img align="center" width="35px" src="icons/socials/hackerrank.svg" alt="hackerrank"/></a>-->
           <a href="https://leetcode.com/u/akasewang/" target="_blank"><img align="center" width="35px" src="icons/socials/leetcode.svg" alt="leetcode"/></a>
         </p>
