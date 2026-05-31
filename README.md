@@ -6,7 +6,6 @@
     <td width="16.6%"><samp><a href="https://akasewang.me/components">components</a></samp></td>
     <td width="16.6%"><samp><a href="https://x.com/akasewang">tweets</a></samp></td>
     <td width="16.6%"><samp><a href="https://akasewang.me/photos">photos</a></samp></td>
-    
   </tr>
   <tr align="center">
     <th colspan="3">GitHub Stats</th>
@@ -14,11 +13,11 @@
   </tr>
 <tr align="center">
   <td colspan="3">
-    <img src="https://github-readme-stats.shion.dev/api?username=akasewang&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=58a6ff&border_color=ffffff&border_radius=0&hide_border=false&include_all_commits=false&count_private=false&card_width=420"
+    <img src="https://github-readme-stats.shion.dev/api?username=akasewang&bg_color=0a0f0b&title_color=abd200&text_color=ffffff&icon_color=68b587&border_color=ffffff&border_radius=0&hide_border=false&include_all_commits=false&count_private=false&card_width=420"
          alt="GitHub Stats" width="420" height="200" />
   </td>
   <td colspan="3">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akasewang&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=58a6ff&border_color=ffffff&border_radius=0&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&card_width=420"
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=akasewang&bg_color=0a0f0b&title_color=abd200&text_color=ffffff&icon_color=68b587&border_color=ffffff&border_radius=0&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&card_width=420"
          alt="Top Languages" width="420" height="200" />
   </td>
 </tr>
@@ -29,7 +28,7 @@
   </tr>
   <tr align="center">
     <td colspan="6">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=akasewang&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&border_color=ffffff&hide_border=false" alt="GitHub Contribution Graph" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=akasewang&bg_color=0a0f0b&color=abd200&line=abd200&point=ffffff&border_color=ffffff&hide_border=false" alt="GitHub Contribution Graph" width="100%" />
     </td>
   </tr>
 </table>
