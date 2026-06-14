@@ -1,11 +1,11 @@
 <table align="center" width="100%">
   <tr align="center">
-    <td width="16.6%"><samp><a href="https://akasewang.me">me</a></samp></td>
-    <td width="16.6%"><samp><a href="https://akasewang.me/blogs">blog</a></samp></td>
-    <td width="16.6%"><samp><a href="https://akasewang.me/projects">projects</a></samp></td>
-    <td width="16.6%"><samp><a href="https://akasewang.me/components">components</a></samp></td>
+    <td width="16.6%"><samp><a href="https://www.akasewang.me">me</a></samp></td>
+    <td width="16.6%"><samp><a href="https://www.akasewang.me/blogs">blog</a></samp></td>
+    <td width="16.6%"><samp><a href="https://www.akasewang.me/projects">projects</a></samp></td>
+    <td width="16.6%"><samp><a href="https://ui.noddy.studio">components</a></samp></td>
     <td width="16.6%"><samp><a href="https://x.com/akasewang">tweets</a></samp></td>
-    <td width="16.6%"><samp><a href="https://akasewang.me/photos">photos</a></samp></td>
+    <td width="16.6%"><samp><a href="https://www.akasewang.me/photos">photos</a></samp></td>
   </tr>
   <tr align="center">
     <th colspan="3">GitHub Stats</th>
