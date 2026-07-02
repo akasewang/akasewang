@@ -3,7 +3,7 @@
     <td width="16.6%"><samp><a href="https://www.akasewang.me">me</a></samp></td>
     <td width="16.6%"><samp><a href="https://www.akasewang.me/blogs">blog</a></samp></td>
     <td width="16.6%"><samp><a href="https://www.akasewang.me/projects">projects</a></samp></td>
-    <td width="16.6%"><samp><a href="https://ui.noddy.studio">components</a></samp></td>
+    <td width="16.6%"><samp><a href="https://library.noddy.studio/">components</a></samp></td>
     <td width="16.6%"><samp><a href="https://x.com/akasewang">tweets</a></samp></td>
     <td width="16.6%"><samp><a href="https://www.akasewang.me/photos">photos</a></samp></td>
   </tr>
