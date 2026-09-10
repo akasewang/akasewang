@@ -8,8 +8,8 @@
     <td colspan="8" width="16.6%"><samp><a href="https://www.akasewang.me/photos">photos</a></samp></td>
   </tr>
 
-  <tr height="2"></tr>
-  <tr height="2"></tr>
+  <tr height="0"></tr>
+  <tr height="4"></tr>
 
   <tr align="center">
     <th colspan="48">Skills</th>
@@ -232,8 +232,8 @@
     <td colspan="3" width="6.25%" height="44" align="center" valign="middle"></td>
   </tr>
 
-  <tr height="2"></tr>
-  <tr height="2"></tr>
+  <tr height="0"></tr>
+  <tr height="4"></tr>
 
   <tr align="center">
     <th colspan="24">GitHub Stats</th>
