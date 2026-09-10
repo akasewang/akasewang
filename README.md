@@ -16,14 +16,14 @@
   <tr align="center">
     <td colspan="3" valign="top">
       <img
-        src="https://github-readme-stats.shion.dev/api?username=akasewang&show_icons=true&bg_color=020617&title_color=7dd3fc&text_color=e0f2fe&icon_color=38bdf8&border_color=1d4ed8&border_radius=14&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github&card_width=420"
+        src="assets/github/github-stats.svg"
         alt="GitHub Stats"
         width="420"
       />
     </td>
     <td colspan="3" valign="top">
       <img
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=akasewang&bg_color=020617&title_color=7dd3fc&text_color=e0f2fe&icon_color=38bdf8&border_color=1d4ed8&border_radius=14&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&card_width=420"
+        src="assets/github/top-languages.svg"
         alt="Top Languages"
         width="420"
       />
@@ -39,7 +39,7 @@
   <tr align="center">
     <td colspan="6">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=akasewang&bg_color=020617&color=e0f2fe&title_color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=1d4ed8&border_color=1d4ed8&radius=14&hide_border=false"
+        src="assets/github/activity-graph.svg"
         alt="GitHub Contribution Graph"
         width="100%"
       />

@@ -1,0 +1,41 @@
+name: Check code quality
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'assets/github/**'
+      - 'README.md'
+  pull_request:
+    paths-ignore:
+      - 'assets/github/**'
+      - 'README.md'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: code-quality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: '24'
+
+      - name: Install development tools
+        run: npm ci --ignore-scripts --no-audit --no-fund
+
+      - name: Check formatting
+        run: npm run format:check
+
+      - name: Test chart generation
+        run: npm test
