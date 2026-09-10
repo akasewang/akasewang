@@ -138,7 +138,9 @@ Edit [charts.json](scripts/github/charts.json) to configure generation. Color va
 
 The stats coordinate width accommodates its long labels. README display widths are separate HTML attributes. The existing six navigation links, two-card table, note, and bottom graph remain intact.
 
-The graph uses a monotone cubic line, white points, and blue area fill. Icons and curves are independently drawn, so minor glyph and curve differences are possible. All SVG content appears immediately; there are no entrance animations. Rendering can also vary slightly with system fonts.
+The graph uses a monotone cubic line, white points, and blue area fill. Metric icons and curves are independently drawn, so minor glyph and curve differences are possible. The stats ring embeds the GitHub mark at its original 66px size. All SVG content appears immediately; there are no entrance animations. Rendering can also vary slightly with system fonts.
+
+The Skills section sits between the navigation links and chart headings. Its icons are static SVGs in `assets/skill-icons/`, displayed at 36px with accessible names in a full-width, ten-column grid. They are maintained separately from the generated charts and do not require an icon-hosting service.
 
 ## Development and formatting
 
@@ -167,13 +169,13 @@ GitHub supplies the token automatically inside Actions, not in a local shell. Ne
 
 Prettier is an exact, locked development dependency. Its rules use two-space indentation, semicolons, single quotes, trailing commas, arrow parentheses, object spacing, LF endings, and a 100-column wrapping target. Markdown wrapping and embedded template contents are preserved. EditorConfig coordinates editor whitespace, and Git attributes normalize line endings for the listed file types.
 
-The profile README, generated SVGs, and npm lockfile are excluded from Prettier. This preserves profile markup and deterministic generated output; npm maintains its lockfile. Formatting checks enforce presentation, while tests check behavior. The quality workflow checks both.
+The profile README, generated SVGs, and npm lockfile are excluded from Prettier. This preserves profile markup and deterministic generated output; npm maintains its lockfile. The renderer formats SVGs with two-space indentation, separate elements, expanded CSS rules, LF endings, and a final newline. Text and path values remain intact. Formatting checks enforce presentation, while tests check behavior. The quality workflow checks both.
 
 For routine maintenance, edit source or configuration, run formatting and tests, review the diff, and push through the repository's normal process. Regenerate SVGs through the generator rather than editing them by hand. Update action pins and formatter versions deliberately, retaining the lockfile and rerunning checks.
 
 ## Verification and troubleshooting
 
-Local verification during implementation covered 13 passing tests, formatting, JavaScript syntax, workflow linting, GraphQL query validation, SVG XML and reference checks, deterministic regeneration, and visual inspection of the three images in the README layout. The tests cover pagination, retry boundaries, date completeness, escaping, empty data, curve behavior, unchanged-file handling, and preservation of existing files when input validation fails.
+Local verification during implementation covered formatting, JavaScript syntax, workflow linting, GraphQL query validation, SVG XML and reference checks, deterministic regeneration, and visual inspection of the three images in the README layout. The tests cover pagination, retry boundaries, date completeness, escaping, empty data, SVG formatting, curve behavior, unchanged-file handling, and preservation of existing files when input validation fails.
 
 | Symptom                                       | Check or action                                                                                                                                                                                         |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

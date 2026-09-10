@@ -26,8 +26,9 @@ additional repository pages require more requests.
 
 The rank ring is a local activity score, not an official GitHub ranking or a measured
 population percentile. It combines commits, PRs, issues, reviews, stars, and followers;
-the formula and grade thresholds are in `render.mjs`. Icons are locally drawn and
-the line uses a monotone cubic curve. Small glyph and curve differences are possible.
+the formula and grade thresholds are in `render.mjs`. The GitHub mark is embedded
+in the card; metric icons are locally drawn and the line uses a monotone cubic curve.
+Small metric glyph and curve differences are possible.
 SVGs show their complete content immediately, without entrance animations.
 
 Connection failures and server errors get at most three attempts. Rate-limit and
@@ -53,6 +54,8 @@ preserves LF endings for code, configuration, and SVGs across operating systems.
 Prettier formats code; behavioral correctness is checked by the tests.
 
 The profile README, generated SVGs, and npm lockfile are excluded from formatting.
+The renderer formats generated SVGs with two-space indentation, separate elements,
+expanded CSS rules, LF endings, and a final newline on every refresh.
 `Check code quality` checks formatting and tests on pull requests and relevant
 pushes to `main`. Changes confined to generated SVGs or the profile README skip
 that workflow. The daily chart workflow remains independent of npm and Prettier.

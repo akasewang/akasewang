@@ -263,6 +263,20 @@ test('empty language list and flat activity render without invalid arithmetic', 
   assert.equal(rank(empty.stats).progress, 0);
 });
 
+test('SVG formatting indents elements without changing escaped text or path data', () => {
+  const named = structuredClone(profile);
+  named.name = '  Example & <svg>\n"quoted"  ';
+  const charts = renderCharts(named, config);
+  for (const svg of Object.values(charts)) {
+    validateSvg(svg);
+    assert.match(svg, /\n  <style>\n    text \{\n      font-family:/);
+    assert.doesNotMatch(svg, /\r|[^\S\n]+\n/);
+  }
+  assert.match(charts['github-stats'], /  Example &amp; &lt;svg&gt;\n&quot;quoted&quot;  &apos;s/);
+  assert.match(charts['github-stats'], /\n  <g [^>]+>\n    <path d="m8 1 2\.1 4\.5/);
+  assert.match(charts['activity-graph'], /\n  <circle [^>]+>\n    <title>2026-/);
+});
+
 test('smooth line never overshoots contributions on alternating peaks', () => {
   const points = [
     [0, 0],
