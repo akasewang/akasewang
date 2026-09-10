@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-labelledby="title description">
   <title id="title">Most Used Languages</title>
-  <desc id="description">TypeScript, Jupyter Notebook, Python, CSS, JavaScript, PowerShell, C, Batchfile</desc>
+  <desc id="description">TypeScript, Jupyter Notebook, Python, JavaScript, CSS, PowerShell, C, Batchfile</desc>
   <style>
     text {
       font-family: 'Segoe UI',Ubuntu,Arial,sans-serif;
@@ -20,27 +20,27 @@
     </clipPath>
   </defs>
   <g clip-path="url(#language-bar)">
-    <rect x="25" y="55" width="335.157" height="8" fill="#3178c6"/>
-    <rect x="359.957" y="55" width="10.857" height="8" fill="#DA5B0B"/>
-    <rect x="370.615" y="55" width="10.561" height="8" fill="#3572A5"/>
-    <rect x="380.976" y="55" width="7.49" height="8" fill="#663399"/>
-    <rect x="388.265" y="55" width="4.529" height="8" fill="#f1e05a"/>
-    <rect x="392.595" y="55" width="1.569" height="8" fill="#012456"/>
-    <rect x="393.964" y="55" width="0.94" height="8" fill="#555555"/>
-    <rect x="394.704" y="55" width="0.496" height="8" fill="#C1F12E"/>
+    <rect x="25" y="55" width="330.986" height="8" fill="#3178c6"/>
+    <rect x="355.786" y="55" width="10.736" height="8" fill="#DA5B0B"/>
+    <rect x="366.322" y="55" width="10.427" height="8" fill="#3572A5"/>
+    <rect x="376.549" y="55" width="9.066" height="8" fill="#f1e05a"/>
+    <rect x="385.416" y="55" width="7.413" height="8" fill="#663399"/>
+    <rect x="392.629" y="55" width="1.539" height="8" fill="#012456"/>
+    <rect x="393.968" y="55" width="0.925" height="8" fill="#555555"/>
+    <rect x="394.693" y="55" width="0.507" height="8" fill="#C1F12E"/>
   </g>
   <circle cx="30" cy="86" r="5" fill="#3178c6"/>
-  <text x="40" y="90" font-size="11">TypeScript 90.53%</text>
+  <text x="40" y="90" font-size="11">TypeScript 89.40%</text>
   <circle cx="30" cy="111" r="5" fill="#DA5B0B"/>
-  <text x="40" y="115" font-size="11">Jupyter Notebook 2.88%</text>
+  <text x="40" y="115" font-size="11">Jupyter Notebook 2.85%</text>
   <circle cx="30" cy="136" r="5" fill="#3572A5"/>
-  <text x="40" y="140" font-size="11">Python 2.80%</text>
-  <circle cx="30" cy="161" r="5" fill="#663399"/>
-  <text x="40" y="165" font-size="11">CSS 1.97%</text>
-  <circle cx="180" cy="86" r="5" fill="#f1e05a"/>
-  <text x="190" y="90" font-size="11">JavaScript 1.17%</text>
+  <text x="40" y="140" font-size="11">Python 2.76%</text>
+  <circle cx="30" cy="161" r="5" fill="#f1e05a"/>
+  <text x="40" y="165" font-size="11">JavaScript 2.40%</text>
+  <circle cx="180" cy="86" r="5" fill="#663399"/>
+  <text x="190" y="90" font-size="11">CSS 1.95%</text>
   <circle cx="180" cy="111" r="5" fill="#012456"/>
-  <text x="190" y="115" font-size="11">PowerShell 0.37%</text>
+  <text x="190" y="115" font-size="11">PowerShell 0.36%</text>
   <circle cx="180" cy="136" r="5" fill="#555555"/>
   <text x="190" y="140" font-size="11">C 0.20%</text>
   <circle cx="180" cy="161" r="5" fill="#C1F12E"/>
