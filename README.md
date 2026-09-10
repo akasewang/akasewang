@@ -9,6 +9,44 @@
   </tr>
 
   <tr align="center">
+    <th colspan="24">GitHub Stats</th>
+    <th colspan="24">Top Languages</th>
+  </tr>
+
+  <tr align="center">
+    <td colspan="24" valign="top">
+      <img
+        src="assets/github/github-stats.svg"
+        alt="GitHub Stats"
+        width="420"
+      />
+    </td>
+    <td colspan="24" valign="top">
+      <img
+        src="assets/github/top-languages.svg"
+        alt="Top Languages"
+        width="420"
+      />
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td colspan="48">
+      <p><strong>Note:</strong> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td colspan="48">
+      <img
+        src="assets/github/activity-graph.svg"
+        alt="GitHub Contribution Graph"
+        width="100%"
+      />
+    </td>
+  </tr>
+
+  <tr align="center">
     <th colspan="48">Skills</th>
   </tr>
 
@@ -147,43 +185,5 @@
     <td colspan="3" width="6.25%" height="44"></td>
     <td colspan="3" width="6.25%" height="44"></td>
     <td colspan="3" width="6.25%" height="44"></td>
-  </tr>
-
-  <tr align="center">
-    <th colspan="24">GitHub Stats</th>
-    <th colspan="24">Top Languages</th>
-  </tr>
-
-  <tr align="center">
-    <td colspan="24" valign="top">
-      <img
-        src="assets/github/github-stats.svg"
-        alt="GitHub Stats"
-        width="420"
-      />
-    </td>
-    <td colspan="24" valign="top">
-      <img
-        src="assets/github/top-languages.svg"
-        alt="Top Languages"
-        width="420"
-      />
-    </td>
-  </tr>
-
-  <tr align="center">
-    <td colspan="48">
-      <p><strong>Note:</strong> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-    </td>
-  </tr>
-
-  <tr align="center">
-    <td colspan="48">
-      <img
-        src="assets/github/activity-graph.svg"
-        alt="GitHub Contribution Graph"
-        width="100%"
-      />
-    </td>
   </tr>
 </table>
