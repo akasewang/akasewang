@@ -8,6 +8,8 @@
     <td colspan="8" width="16.6%"><samp><a href="https://www.akasewang.me/photos">photos</a></samp></td>
   </tr>
 
+  <tr height="4"></tr>
+
   <tr align="center">
     <th colspan="24">GitHub Stats</th>
     <th colspan="24">Top Languages</th>
@@ -45,6 +47,8 @@
       />
     </td>
   </tr>
+
+  <tr height="4"></tr>
 
   <tr align="center">
     <th colspan="48">Skills</th>
